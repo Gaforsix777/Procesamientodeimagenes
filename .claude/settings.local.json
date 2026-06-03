@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"C:\\\\Users\\\\victus\\\\.cache\\\\kagglehub\\\\datasets\\\\emmarex\\\\plantdisease\\\\versions\\\\1\" /b)"
+    ]
+  }
+}
